@@ -1,0 +1,1842 @@
+{
+  "last_updated": "2026-06-02T14:51:14.702061",
+  "tickers": [
+    "AAPL",
+    "MSFT",
+    "NVDA",
+    "AVGO",
+    "TSLA",
+    "QQQ"
+  ],
+  "per_ticker": {
+    "AAPL": {
+      "Breakout Buildup": {
+        "wins": 11,
+        "losses": 22,
+        "total_trades": 33,
+        "win_rate": 33.3,
+        "avg_rr": 1.33,
+        "profit_factor": 1.0
+      },
+      "Supply & Demand": {
+        "wins": 26,
+        "losses": 60,
+        "total_trades": 86,
+        "win_rate": 30.2,
+        "avg_rr": 1.3,
+        "profit_factor": 0.87
+      },
+      "Dirty Retest": {
+        "wins": 7,
+        "losses": 12,
+        "total_trades": 19,
+        "win_rate": 36.8,
+        "avg_rr": 1.37,
+        "profit_factor": 1.17
+      },
+      "RSI Divergence": {
+        "wins": 22,
+        "losses": 32,
+        "total_trades": 54,
+        "win_rate": 40.7,
+        "avg_rr": 1.41,
+        "profit_factor": 1.38
+      },
+      "Candlestick Patterns": {
+        "wins": 1,
+        "losses": 3,
+        "total_trades": 4,
+        "win_rate": 25.0,
+        "avg_rr": 1.25,
+        "profit_factor": 0.67
+      },
+      "Round Numbers": {
+        "wins": 15,
+        "losses": 28,
+        "total_trades": 43,
+        "win_rate": 34.9,
+        "avg_rr": 1.35,
+        "profit_factor": 1.07
+      },
+      "Prev Day H/L": {
+        "wins": 51,
+        "losses": 122,
+        "total_trades": 173,
+        "win_rate": 29.5,
+        "avg_rr": 1.29,
+        "profit_factor": 0.84
+      },
+      "Fibonacci": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "EMA Pullback": {
+        "wins": 0,
+        "losses": 1,
+        "total_trades": 1,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Breakout Retest": {
+        "wins": 4,
+        "losses": 6,
+        "total_trades": 10,
+        "win_rate": 40.0,
+        "avg_rr": 1.4,
+        "profit_factor": 1.33
+      },
+      "Double Top": {
+        "wins": 21,
+        "losses": 29,
+        "total_trades": 50,
+        "win_rate": 42.0,
+        "avg_rr": 1.42,
+        "profit_factor": 1.45
+      },
+      "Double Bottom": {
+        "wins": 28,
+        "losses": 63,
+        "total_trades": 91,
+        "win_rate": 30.8,
+        "avg_rr": 1.31,
+        "profit_factor": 0.89
+      },
+      "Head & Shoulders": {
+        "wins": 11,
+        "losses": 42,
+        "total_trades": 53,
+        "win_rate": 20.8,
+        "avg_rr": 1.21,
+        "profit_factor": 0.52
+      },
+      "Inverse H&S": {
+        "wins": 30,
+        "losses": 23,
+        "total_trades": 53,
+        "win_rate": 56.6,
+        "avg_rr": 1.57,
+        "profit_factor": 2.61
+      },
+      "Rising Wedge": {
+        "wins": 1,
+        "losses": 1,
+        "total_trades": 2,
+        "win_rate": 50.0,
+        "avg_rr": 1.5,
+        "profit_factor": 2.0
+      },
+      "Falling Wedge": {
+        "wins": 0,
+        "losses": 4,
+        "total_trades": 4,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Cup & Handle": {
+        "wins": 2,
+        "losses": 1,
+        "total_trades": 3,
+        "win_rate": 66.7,
+        "avg_rr": 1.67,
+        "profit_factor": 4.0
+      },
+      "Ascending Triangle": {
+        "wins": 25,
+        "losses": 51,
+        "total_trades": 76,
+        "win_rate": 32.9,
+        "avg_rr": 1.33,
+        "profit_factor": 0.98
+      },
+      "Descending Triangle": {
+        "wins": 7,
+        "losses": 22,
+        "total_trades": 29,
+        "win_rate": 24.1,
+        "avg_rr": 1.24,
+        "profit_factor": 0.64
+      },
+      "Bull Flag": {
+        "wins": 0,
+        "losses": 5,
+        "total_trades": 5,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Bear Flag": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "Symmetrical Triangle": {
+        "wins": 0,
+        "losses": 1,
+        "total_trades": 1,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Triple Top": {
+        "wins": 21,
+        "losses": 43,
+        "total_trades": 64,
+        "win_rate": 32.8,
+        "avg_rr": 1.33,
+        "profit_factor": 0.98
+      },
+      "Triple Bottom": {
+        "wins": 56,
+        "losses": 69,
+        "total_trades": 125,
+        "win_rate": 44.8,
+        "avg_rr": 1.45,
+        "profit_factor": 1.62
+      },
+      "Rectangle": {
+        "wins": 34,
+        "losses": 64,
+        "total_trades": 98,
+        "win_rate": 34.7,
+        "avg_rr": 1.35,
+        "profit_factor": 1.06
+      },
+      "Pipe Bottom": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "Inside Bar / NR4": {
+        "wins": 26,
+        "losses": 58,
+        "total_trades": 84,
+        "win_rate": 31.0,
+        "avg_rr": 1.31,
+        "profit_factor": 0.9
+      },
+      "Gap": {
+        "wins": 29,
+        "losses": 52,
+        "total_trades": 81,
+        "win_rate": 35.8,
+        "avg_rr": 1.36,
+        "profit_factor": 1.12
+      },
+      "Doji": {
+        "wins": 4,
+        "losses": 13,
+        "total_trades": 17,
+        "win_rate": 23.5,
+        "avg_rr": 1.24,
+        "profit_factor": 0.62
+      },
+      "Harami": {
+        "wins": 2,
+        "losses": 5,
+        "total_trades": 7,
+        "win_rate": 28.6,
+        "avg_rr": 1.29,
+        "profit_factor": 0.8
+      },
+      "Hammer / Hanging Man": {
+        "wins": 1,
+        "losses": 6,
+        "total_trades": 7,
+        "win_rate": 14.3,
+        "avg_rr": 1.14,
+        "profit_factor": 0.33
+      },
+      "Shooting Star": {
+        "wins": 3,
+        "losses": 7,
+        "total_trades": 10,
+        "win_rate": 30.0,
+        "avg_rr": 1.3,
+        "profit_factor": 0.86
+      },
+      "Dark Cloud / Piercing": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      }
+    },
+    "MSFT": {
+      "Breakout Buildup": {
+        "wins": 23,
+        "losses": 14,
+        "total_trades": 37,
+        "win_rate": 62.2,
+        "avg_rr": 1.62,
+        "profit_factor": 3.29
+      },
+      "Supply & Demand": {
+        "wins": 23,
+        "losses": 38,
+        "total_trades": 61,
+        "win_rate": 37.7,
+        "avg_rr": 1.38,
+        "profit_factor": 1.21
+      },
+      "Dirty Retest": {
+        "wins": 16,
+        "losses": 10,
+        "total_trades": 26,
+        "win_rate": 61.5,
+        "avg_rr": 1.62,
+        "profit_factor": 3.2
+      },
+      "RSI Divergence": {
+        "wins": 16,
+        "losses": 74,
+        "total_trades": 90,
+        "win_rate": 17.8,
+        "avg_rr": 1.18,
+        "profit_factor": 0.43
+      },
+      "Candlestick Patterns": {
+        "wins": 2,
+        "losses": 3,
+        "total_trades": 5,
+        "win_rate": 40.0,
+        "avg_rr": 1.4,
+        "profit_factor": 1.33
+      },
+      "Round Numbers": {
+        "wins": 22,
+        "losses": 30,
+        "total_trades": 52,
+        "win_rate": 42.3,
+        "avg_rr": 1.42,
+        "profit_factor": 1.47
+      },
+      "Prev Day H/L": {
+        "wins": 61,
+        "losses": 104,
+        "total_trades": 165,
+        "win_rate": 37.0,
+        "avg_rr": 1.37,
+        "profit_factor": 1.17
+      },
+      "Fibonacci": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "EMA Pullback": {
+        "wins": 3,
+        "losses": 2,
+        "total_trades": 5,
+        "win_rate": 60.0,
+        "avg_rr": 1.6,
+        "profit_factor": 3.0
+      },
+      "Breakout Retest": {
+        "wins": 1,
+        "losses": 15,
+        "total_trades": 16,
+        "win_rate": 6.2,
+        "avg_rr": 1.06,
+        "profit_factor": 0.13
+      },
+      "Double Top": {
+        "wins": 20,
+        "losses": 41,
+        "total_trades": 61,
+        "win_rate": 32.8,
+        "avg_rr": 1.33,
+        "profit_factor": 0.98
+      },
+      "Double Bottom": {
+        "wins": 17,
+        "losses": 25,
+        "total_trades": 42,
+        "win_rate": 40.5,
+        "avg_rr": 1.4,
+        "profit_factor": 1.36
+      },
+      "Head & Shoulders": {
+        "wins": 42,
+        "losses": 26,
+        "total_trades": 68,
+        "win_rate": 61.8,
+        "avg_rr": 1.62,
+        "profit_factor": 3.23
+      },
+      "Inverse H&S": {
+        "wins": 36,
+        "losses": 12,
+        "total_trades": 48,
+        "win_rate": 75.0,
+        "avg_rr": 1.75,
+        "profit_factor": 6.0
+      },
+      "Rising Wedge": {
+        "wins": 0,
+        "losses": 2,
+        "total_trades": 2,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Falling Wedge": {
+        "wins": 0,
+        "losses": 11,
+        "total_trades": 11,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Cup & Handle": {
+        "wins": 0,
+        "losses": 2,
+        "total_trades": 2,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Ascending Triangle": {
+        "wins": 52,
+        "losses": 9,
+        "total_trades": 61,
+        "win_rate": 85.2,
+        "avg_rr": 1.85,
+        "profit_factor": 11.56
+      },
+      "Descending Triangle": {
+        "wins": 28,
+        "losses": 16,
+        "total_trades": 44,
+        "win_rate": 63.6,
+        "avg_rr": 1.64,
+        "profit_factor": 3.5
+      },
+      "Bull Flag": {
+        "wins": 1,
+        "losses": 0,
+        "total_trades": 1,
+        "win_rate": 100.0,
+        "avg_rr": 2.0,
+        "profit_factor": 1.0
+      },
+      "Bear Flag": {
+        "wins": 2,
+        "losses": 0,
+        "total_trades": 2,
+        "win_rate": 100.0,
+        "avg_rr": 2.0,
+        "profit_factor": 2.0
+      },
+      "Symmetrical Triangle": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "Triple Top": {
+        "wins": 50,
+        "losses": 54,
+        "total_trades": 104,
+        "win_rate": 48.1,
+        "avg_rr": 1.48,
+        "profit_factor": 1.85
+      },
+      "Triple Bottom": {
+        "wins": 51,
+        "losses": 50,
+        "total_trades": 101,
+        "win_rate": 50.5,
+        "avg_rr": 1.5,
+        "profit_factor": 2.04
+      },
+      "Rectangle": {
+        "wins": 37,
+        "losses": 14,
+        "total_trades": 51,
+        "win_rate": 72.5,
+        "avg_rr": 1.73,
+        "profit_factor": 5.29
+      },
+      "Pipe Bottom": {
+        "wins": 0,
+        "losses": 5,
+        "total_trades": 5,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Inside Bar / NR4": {
+        "wins": 28,
+        "losses": 58,
+        "total_trades": 86,
+        "win_rate": 32.6,
+        "avg_rr": 1.33,
+        "profit_factor": 0.97
+      },
+      "Gap": {
+        "wins": 32,
+        "losses": 40,
+        "total_trades": 72,
+        "win_rate": 44.4,
+        "avg_rr": 1.44,
+        "profit_factor": 1.6
+      },
+      "Doji": {
+        "wins": 1,
+        "losses": 18,
+        "total_trades": 19,
+        "win_rate": 5.3,
+        "avg_rr": 1.05,
+        "profit_factor": 0.11
+      },
+      "Harami": {
+        "wins": 2,
+        "losses": 5,
+        "total_trades": 7,
+        "win_rate": 28.6,
+        "avg_rr": 1.29,
+        "profit_factor": 0.8
+      },
+      "Hammer / Hanging Man": {
+        "wins": 4,
+        "losses": 1,
+        "total_trades": 5,
+        "win_rate": 80.0,
+        "avg_rr": 1.8,
+        "profit_factor": 8.0
+      },
+      "Shooting Star": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "Dark Cloud / Piercing": {
+        "wins": 0,
+        "losses": 2,
+        "total_trades": 2,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      }
+    },
+    "NVDA": {
+      "Breakout Buildup": {
+        "wins": 29,
+        "losses": 23,
+        "total_trades": 52,
+        "win_rate": 55.8,
+        "avg_rr": 1.56,
+        "profit_factor": 2.52
+      },
+      "Supply & Demand": {
+        "wins": 14,
+        "losses": 21,
+        "total_trades": 35,
+        "win_rate": 40.0,
+        "avg_rr": 1.4,
+        "profit_factor": 1.33
+      },
+      "Dirty Retest": {
+        "wins": 7,
+        "losses": 7,
+        "total_trades": 14,
+        "win_rate": 50.0,
+        "avg_rr": 1.5,
+        "profit_factor": 2.0
+      },
+      "RSI Divergence": {
+        "wins": 1,
+        "losses": 47,
+        "total_trades": 48,
+        "win_rate": 2.1,
+        "avg_rr": 1.02,
+        "profit_factor": 0.04
+      },
+      "Candlestick Patterns": {
+        "wins": 0,
+        "losses": 1,
+        "total_trades": 1,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Round Numbers": {
+        "wins": 12,
+        "losses": 34,
+        "total_trades": 46,
+        "win_rate": 26.1,
+        "avg_rr": 1.26,
+        "profit_factor": 0.71
+      },
+      "Prev Day H/L": {
+        "wins": 55,
+        "losses": 136,
+        "total_trades": 191,
+        "win_rate": 28.8,
+        "avg_rr": 1.29,
+        "profit_factor": 0.81
+      },
+      "Fibonacci": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "EMA Pullback": {
+        "wins": 1,
+        "losses": 1,
+        "total_trades": 2,
+        "win_rate": 50.0,
+        "avg_rr": 1.5,
+        "profit_factor": 2.0
+      },
+      "Breakout Retest": {
+        "wins": 2,
+        "losses": 3,
+        "total_trades": 5,
+        "win_rate": 40.0,
+        "avg_rr": 1.4,
+        "profit_factor": 1.33
+      },
+      "Double Top": {
+        "wins": 0,
+        "losses": 30,
+        "total_trades": 30,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Double Bottom": {
+        "wins": 3,
+        "losses": 33,
+        "total_trades": 36,
+        "win_rate": 8.3,
+        "avg_rr": 1.08,
+        "profit_factor": 0.18
+      },
+      "Head & Shoulders": {
+        "wins": 11,
+        "losses": 42,
+        "total_trades": 53,
+        "win_rate": 20.8,
+        "avg_rr": 1.21,
+        "profit_factor": 0.52
+      },
+      "Inverse H&S": {
+        "wins": 39,
+        "losses": 22,
+        "total_trades": 61,
+        "win_rate": 63.9,
+        "avg_rr": 1.64,
+        "profit_factor": 3.55
+      },
+      "Rising Wedge": {
+        "wins": 0,
+        "losses": 10,
+        "total_trades": 10,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Falling Wedge": {
+        "wins": 4,
+        "losses": 8,
+        "total_trades": 12,
+        "win_rate": 33.3,
+        "avg_rr": 1.33,
+        "profit_factor": 1.0
+      },
+      "Cup & Handle": {
+        "wins": 1,
+        "losses": 4,
+        "total_trades": 5,
+        "win_rate": 20.0,
+        "avg_rr": 1.2,
+        "profit_factor": 0.5
+      },
+      "Ascending Triangle": {
+        "wins": 26,
+        "losses": 25,
+        "total_trades": 51,
+        "win_rate": 51.0,
+        "avg_rr": 1.51,
+        "profit_factor": 2.08
+      },
+      "Descending Triangle": {
+        "wins": 0,
+        "losses": 2,
+        "total_trades": 2,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Bull Flag": {
+        "wins": 0,
+        "losses": 1,
+        "total_trades": 1,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Bear Flag": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "Symmetrical Triangle": {
+        "wins": 1,
+        "losses": 1,
+        "total_trades": 2,
+        "win_rate": 50.0,
+        "avg_rr": 1.5,
+        "profit_factor": 2.0
+      },
+      "Triple Top": {
+        "wins": 9,
+        "losses": 55,
+        "total_trades": 64,
+        "win_rate": 14.1,
+        "avg_rr": 1.14,
+        "profit_factor": 0.33
+      },
+      "Triple Bottom": {
+        "wins": 16,
+        "losses": 43,
+        "total_trades": 59,
+        "win_rate": 27.1,
+        "avg_rr": 1.27,
+        "profit_factor": 0.74
+      },
+      "Rectangle": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "Pipe Bottom": {
+        "wins": 0,
+        "losses": 6,
+        "total_trades": 6,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Inside Bar / NR4": {
+        "wins": 25,
+        "losses": 59,
+        "total_trades": 84,
+        "win_rate": 29.8,
+        "avg_rr": 1.3,
+        "profit_factor": 0.85
+      },
+      "Gap": {
+        "wins": 38,
+        "losses": 122,
+        "total_trades": 160,
+        "win_rate": 23.8,
+        "avg_rr": 1.24,
+        "profit_factor": 0.62
+      },
+      "Doji": {
+        "wins": 13,
+        "losses": 13,
+        "total_trades": 26,
+        "win_rate": 50.0,
+        "avg_rr": 1.5,
+        "profit_factor": 2.0
+      },
+      "Harami": {
+        "wins": 1,
+        "losses": 2,
+        "total_trades": 3,
+        "win_rate": 33.3,
+        "avg_rr": 1.33,
+        "profit_factor": 1.0
+      },
+      "Hammer / Hanging Man": {
+        "wins": 0,
+        "losses": 4,
+        "total_trades": 4,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Shooting Star": {
+        "wins": 2,
+        "losses": 1,
+        "total_trades": 3,
+        "win_rate": 66.7,
+        "avg_rr": 1.67,
+        "profit_factor": 4.0
+      },
+      "Dark Cloud / Piercing": {
+        "wins": 0,
+        "losses": 2,
+        "total_trades": 2,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      }
+    },
+    "AVGO": {
+      "Breakout Buildup": {
+        "wins": 23,
+        "losses": 24,
+        "total_trades": 47,
+        "win_rate": 48.9,
+        "avg_rr": 1.49,
+        "profit_factor": 1.92
+      },
+      "Supply & Demand": {
+        "wins": 4,
+        "losses": 6,
+        "total_trades": 10,
+        "win_rate": 40.0,
+        "avg_rr": 1.4,
+        "profit_factor": 1.33
+      },
+      "Dirty Retest": {
+        "wins": 8,
+        "losses": 2,
+        "total_trades": 10,
+        "win_rate": 80.0,
+        "avg_rr": 1.8,
+        "profit_factor": 8.0
+      },
+      "RSI Divergence": {
+        "wins": 10,
+        "losses": 42,
+        "total_trades": 52,
+        "win_rate": 19.2,
+        "avg_rr": 1.19,
+        "profit_factor": 0.48
+      },
+      "Candlestick Patterns": {
+        "wins": 1,
+        "losses": 2,
+        "total_trades": 3,
+        "win_rate": 33.3,
+        "avg_rr": 1.33,
+        "profit_factor": 1.0
+      },
+      "Round Numbers": {
+        "wins": 25,
+        "losses": 57,
+        "total_trades": 82,
+        "win_rate": 30.5,
+        "avg_rr": 1.3,
+        "profit_factor": 0.88
+      },
+      "Prev Day H/L": {
+        "wins": 58,
+        "losses": 131,
+        "total_trades": 189,
+        "win_rate": 30.7,
+        "avg_rr": 1.31,
+        "profit_factor": 0.89
+      },
+      "Fibonacci": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "EMA Pullback": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "Breakout Retest": {
+        "wins": 1,
+        "losses": 3,
+        "total_trades": 4,
+        "win_rate": 25.0,
+        "avg_rr": 1.25,
+        "profit_factor": 0.67
+      },
+      "Double Top": {
+        "wins": 8,
+        "losses": 14,
+        "total_trades": 22,
+        "win_rate": 36.4,
+        "avg_rr": 1.36,
+        "profit_factor": 1.14
+      },
+      "Double Bottom": {
+        "wins": 29,
+        "losses": 34,
+        "total_trades": 63,
+        "win_rate": 46.0,
+        "avg_rr": 1.46,
+        "profit_factor": 1.71
+      },
+      "Head & Shoulders": {
+        "wins": 19,
+        "losses": 16,
+        "total_trades": 35,
+        "win_rate": 54.3,
+        "avg_rr": 1.54,
+        "profit_factor": 2.38
+      },
+      "Inverse H&S": {
+        "wins": 11,
+        "losses": 32,
+        "total_trades": 43,
+        "win_rate": 25.6,
+        "avg_rr": 1.26,
+        "profit_factor": 0.69
+      },
+      "Rising Wedge": {
+        "wins": 1,
+        "losses": 2,
+        "total_trades": 3,
+        "win_rate": 33.3,
+        "avg_rr": 1.33,
+        "profit_factor": 1.0
+      },
+      "Falling Wedge": {
+        "wins": 0,
+        "losses": 9,
+        "total_trades": 9,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Cup & Handle": {
+        "wins": 5,
+        "losses": 2,
+        "total_trades": 7,
+        "win_rate": 71.4,
+        "avg_rr": 1.71,
+        "profit_factor": 5.0
+      },
+      "Ascending Triangle": {
+        "wins": 25,
+        "losses": 12,
+        "total_trades": 37,
+        "win_rate": 67.6,
+        "avg_rr": 1.68,
+        "profit_factor": 4.17
+      },
+      "Descending Triangle": {
+        "wins": 0,
+        "losses": 4,
+        "total_trades": 4,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Bull Flag": {
+        "wins": 2,
+        "losses": 0,
+        "total_trades": 2,
+        "win_rate": 100.0,
+        "avg_rr": 2.0,
+        "profit_factor": 2.0
+      },
+      "Bear Flag": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "Symmetrical Triangle": {
+        "wins": 0,
+        "losses": 1,
+        "total_trades": 1,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Triple Top": {
+        "wins": 25,
+        "losses": 19,
+        "total_trades": 44,
+        "win_rate": 56.8,
+        "avg_rr": 1.57,
+        "profit_factor": 2.63
+      },
+      "Triple Bottom": {
+        "wins": 34,
+        "losses": 54,
+        "total_trades": 88,
+        "win_rate": 38.6,
+        "avg_rr": 1.39,
+        "profit_factor": 1.26
+      },
+      "Rectangle": {
+        "wins": 0,
+        "losses": 10,
+        "total_trades": 10,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Pipe Bottom": {
+        "wins": 2,
+        "losses": 3,
+        "total_trades": 5,
+        "win_rate": 40.0,
+        "avg_rr": 1.4,
+        "profit_factor": 1.33
+      },
+      "Inside Bar / NR4": {
+        "wins": 25,
+        "losses": 53,
+        "total_trades": 78,
+        "win_rate": 32.1,
+        "avg_rr": 1.32,
+        "profit_factor": 0.94
+      },
+      "Gap": {
+        "wins": 52,
+        "losses": 121,
+        "total_trades": 173,
+        "win_rate": 30.1,
+        "avg_rr": 1.3,
+        "profit_factor": 0.86
+      },
+      "Doji": {
+        "wins": 8,
+        "losses": 14,
+        "total_trades": 22,
+        "win_rate": 36.4,
+        "avg_rr": 1.36,
+        "profit_factor": 1.14
+      },
+      "Harami": {
+        "wins": 1,
+        "losses": 3,
+        "total_trades": 4,
+        "win_rate": 25.0,
+        "avg_rr": 1.25,
+        "profit_factor": 0.67
+      },
+      "Hammer / Hanging Man": {
+        "wins": 0,
+        "losses": 3,
+        "total_trades": 3,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Shooting Star": {
+        "wins": 1,
+        "losses": 1,
+        "total_trades": 2,
+        "win_rate": 50.0,
+        "avg_rr": 1.5,
+        "profit_factor": 2.0
+      },
+      "Dark Cloud / Piercing": {
+        "wins": 5,
+        "losses": 3,
+        "total_trades": 8,
+        "win_rate": 62.5,
+        "avg_rr": 1.62,
+        "profit_factor": 3.33
+      }
+    },
+    "TSLA": {
+      "Breakout Buildup": {
+        "wins": 7,
+        "losses": 20,
+        "total_trades": 27,
+        "win_rate": 25.9,
+        "avg_rr": 1.26,
+        "profit_factor": 0.7
+      },
+      "Supply & Demand": {
+        "wins": 18,
+        "losses": 17,
+        "total_trades": 35,
+        "win_rate": 51.4,
+        "avg_rr": 1.51,
+        "profit_factor": 2.12
+      },
+      "Dirty Retest": {
+        "wins": 3,
+        "losses": 1,
+        "total_trades": 4,
+        "win_rate": 75.0,
+        "avg_rr": 1.75,
+        "profit_factor": 6.0
+      },
+      "RSI Divergence": {
+        "wins": 22,
+        "losses": 35,
+        "total_trades": 57,
+        "win_rate": 38.6,
+        "avg_rr": 1.39,
+        "profit_factor": 1.26
+      },
+      "Candlestick Patterns": {
+        "wins": 0,
+        "losses": 1,
+        "total_trades": 1,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Round Numbers": {
+        "wins": 19,
+        "losses": 60,
+        "total_trades": 79,
+        "win_rate": 24.1,
+        "avg_rr": 1.24,
+        "profit_factor": 0.63
+      },
+      "Prev Day H/L": {
+        "wins": 56,
+        "losses": 129,
+        "total_trades": 185,
+        "win_rate": 30.3,
+        "avg_rr": 1.3,
+        "profit_factor": 0.87
+      },
+      "Fibonacci": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "EMA Pullback": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "Breakout Retest": {
+        "wins": 1,
+        "losses": 1,
+        "total_trades": 2,
+        "win_rate": 50.0,
+        "avg_rr": 1.5,
+        "profit_factor": 2.0
+      },
+      "Double Top": {
+        "wins": 4,
+        "losses": 15,
+        "total_trades": 19,
+        "win_rate": 21.1,
+        "avg_rr": 1.21,
+        "profit_factor": 0.53
+      },
+      "Double Bottom": {
+        "wins": 2,
+        "losses": 9,
+        "total_trades": 11,
+        "win_rate": 18.2,
+        "avg_rr": 1.18,
+        "profit_factor": 0.44
+      },
+      "Head & Shoulders": {
+        "wins": 3,
+        "losses": 6,
+        "total_trades": 9,
+        "win_rate": 33.3,
+        "avg_rr": 1.33,
+        "profit_factor": 1.0
+      },
+      "Inverse H&S": {
+        "wins": 23,
+        "losses": 47,
+        "total_trades": 70,
+        "win_rate": 32.9,
+        "avg_rr": 1.33,
+        "profit_factor": 0.98
+      },
+      "Rising Wedge": {
+        "wins": 2,
+        "losses": 7,
+        "total_trades": 9,
+        "win_rate": 22.2,
+        "avg_rr": 1.22,
+        "profit_factor": 0.57
+      },
+      "Falling Wedge": {
+        "wins": 3,
+        "losses": 11,
+        "total_trades": 14,
+        "win_rate": 21.4,
+        "avg_rr": 1.21,
+        "profit_factor": 0.55
+      },
+      "Cup & Handle": {
+        "wins": 2,
+        "losses": 5,
+        "total_trades": 7,
+        "win_rate": 28.6,
+        "avg_rr": 1.29,
+        "profit_factor": 0.8
+      },
+      "Ascending Triangle": {
+        "wins": 5,
+        "losses": 16,
+        "total_trades": 21,
+        "win_rate": 23.8,
+        "avg_rr": 1.24,
+        "profit_factor": 0.62
+      },
+      "Descending Triangle": {
+        "wins": 4,
+        "losses": 3,
+        "total_trades": 7,
+        "win_rate": 57.1,
+        "avg_rr": 1.57,
+        "profit_factor": 2.67
+      },
+      "Bull Flag": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "Bear Flag": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "Symmetrical Triangle": {
+        "wins": 0,
+        "losses": 2,
+        "total_trades": 2,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Triple Top": {
+        "wins": 7,
+        "losses": 32,
+        "total_trades": 39,
+        "win_rate": 17.9,
+        "avg_rr": 1.18,
+        "profit_factor": 0.44
+      },
+      "Triple Bottom": {
+        "wins": 15,
+        "losses": 44,
+        "total_trades": 59,
+        "win_rate": 25.4,
+        "avg_rr": 1.25,
+        "profit_factor": 0.68
+      },
+      "Rectangle": {
+        "wins": 4,
+        "losses": 10,
+        "total_trades": 14,
+        "win_rate": 28.6,
+        "avg_rr": 1.29,
+        "profit_factor": 0.8
+      },
+      "Pipe Bottom": {
+        "wins": 1,
+        "losses": 1,
+        "total_trades": 2,
+        "win_rate": 50.0,
+        "avg_rr": 1.5,
+        "profit_factor": 2.0
+      },
+      "Inside Bar / NR4": {
+        "wins": 24,
+        "losses": 57,
+        "total_trades": 81,
+        "win_rate": 29.6,
+        "avg_rr": 1.3,
+        "profit_factor": 0.84
+      },
+      "Gap": {
+        "wins": 51,
+        "losses": 125,
+        "total_trades": 176,
+        "win_rate": 29.0,
+        "avg_rr": 1.29,
+        "profit_factor": 0.82
+      },
+      "Doji": {
+        "wins": 5,
+        "losses": 12,
+        "total_trades": 17,
+        "win_rate": 29.4,
+        "avg_rr": 1.29,
+        "profit_factor": 0.83
+      },
+      "Harami": {
+        "wins": 0,
+        "losses": 4,
+        "total_trades": 4,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Hammer / Hanging Man": {
+        "wins": 2,
+        "losses": 5,
+        "total_trades": 7,
+        "win_rate": 28.6,
+        "avg_rr": 1.29,
+        "profit_factor": 0.8
+      },
+      "Shooting Star": {
+        "wins": 2,
+        "losses": 1,
+        "total_trades": 3,
+        "win_rate": 66.7,
+        "avg_rr": 1.67,
+        "profit_factor": 4.0
+      },
+      "Dark Cloud / Piercing": {
+        "wins": 1,
+        "losses": 3,
+        "total_trades": 4,
+        "win_rate": 25.0,
+        "avg_rr": 1.25,
+        "profit_factor": 0.67
+      }
+    },
+    "QQQ": {
+      "Breakout Buildup": {
+        "wins": 30,
+        "losses": 39,
+        "total_trades": 69,
+        "win_rate": 43.5,
+        "avg_rr": 1.43,
+        "profit_factor": 1.54
+      },
+      "Supply & Demand": {
+        "wins": 16,
+        "losses": 23,
+        "total_trades": 39,
+        "win_rate": 41.0,
+        "avg_rr": 1.41,
+        "profit_factor": 1.39
+      },
+      "Dirty Retest": {
+        "wins": 23,
+        "losses": 30,
+        "total_trades": 53,
+        "win_rate": 43.4,
+        "avg_rr": 1.43,
+        "profit_factor": 1.53
+      },
+      "RSI Divergence": {
+        "wins": 12,
+        "losses": 69,
+        "total_trades": 81,
+        "win_rate": 14.8,
+        "avg_rr": 1.15,
+        "profit_factor": 0.35
+      },
+      "Candlestick Patterns": {
+        "wins": 1,
+        "losses": 2,
+        "total_trades": 3,
+        "win_rate": 33.3,
+        "avg_rr": 1.33,
+        "profit_factor": 1.0
+      },
+      "Round Numbers": {
+        "wins": 31,
+        "losses": 54,
+        "total_trades": 85,
+        "win_rate": 36.5,
+        "avg_rr": 1.36,
+        "profit_factor": 1.15
+      },
+      "Prev Day H/L": {
+        "wins": 64,
+        "losses": 116,
+        "total_trades": 180,
+        "win_rate": 35.6,
+        "avg_rr": 1.36,
+        "profit_factor": 1.1
+      },
+      "Fibonacci": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "EMA Pullback": {
+        "wins": 1,
+        "losses": 2,
+        "total_trades": 3,
+        "win_rate": 33.3,
+        "avg_rr": 1.33,
+        "profit_factor": 1.0
+      },
+      "Breakout Retest": {
+        "wins": 2,
+        "losses": 11,
+        "total_trades": 13,
+        "win_rate": 15.4,
+        "avg_rr": 1.15,
+        "profit_factor": 0.36
+      },
+      "Double Top": {
+        "wins": 6,
+        "losses": 10,
+        "total_trades": 16,
+        "win_rate": 37.5,
+        "avg_rr": 1.38,
+        "profit_factor": 1.2
+      },
+      "Double Bottom": {
+        "wins": 32,
+        "losses": 76,
+        "total_trades": 108,
+        "win_rate": 29.6,
+        "avg_rr": 1.3,
+        "profit_factor": 0.84
+      },
+      "Head & Shoulders": {
+        "wins": 36,
+        "losses": 22,
+        "total_trades": 58,
+        "win_rate": 62.1,
+        "avg_rr": 1.62,
+        "profit_factor": 3.27
+      },
+      "Inverse H&S": {
+        "wins": 12,
+        "losses": 29,
+        "total_trades": 41,
+        "win_rate": 29.3,
+        "avg_rr": 1.29,
+        "profit_factor": 0.83
+      },
+      "Rising Wedge": {
+        "wins": 0,
+        "losses": 14,
+        "total_trades": 14,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Falling Wedge": {
+        "wins": 0,
+        "losses": 6,
+        "total_trades": 6,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Cup & Handle": {
+        "wins": 1,
+        "losses": 0,
+        "total_trades": 1,
+        "win_rate": 100.0,
+        "avg_rr": 2.0,
+        "profit_factor": 1.0
+      },
+      "Ascending Triangle": {
+        "wins": 64,
+        "losses": 88,
+        "total_trades": 152,
+        "win_rate": 42.1,
+        "avg_rr": 1.42,
+        "profit_factor": 1.45
+      },
+      "Descending Triangle": {
+        "wins": 24,
+        "losses": 8,
+        "total_trades": 32,
+        "win_rate": 75.0,
+        "avg_rr": 1.75,
+        "profit_factor": 6.0
+      },
+      "Bull Flag": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "Bear Flag": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "Symmetrical Triangle": {
+        "wins": 0,
+        "losses": 0,
+        "total_trades": 0,
+        "win_rate": 0.0,
+        "avg_rr": 0.0,
+        "profit_factor": 0.0
+      },
+      "Triple Top": {
+        "wins": 42,
+        "losses": 47,
+        "total_trades": 89,
+        "win_rate": 47.2,
+        "avg_rr": 1.47,
+        "profit_factor": 1.79
+      },
+      "Triple Bottom": {
+        "wins": 54,
+        "losses": 102,
+        "total_trades": 156,
+        "win_rate": 34.6,
+        "avg_rr": 1.35,
+        "profit_factor": 1.06
+      },
+      "Rectangle": {
+        "wins": 34,
+        "losses": 15,
+        "total_trades": 49,
+        "win_rate": 69.4,
+        "avg_rr": 1.69,
+        "profit_factor": 4.53
+      },
+      "Pipe Bottom": {
+        "wins": 5,
+        "losses": 4,
+        "total_trades": 9,
+        "win_rate": 55.6,
+        "avg_rr": 1.56,
+        "profit_factor": 2.5
+      },
+      "Inside Bar / NR4": {
+        "wins": 31,
+        "losses": 55,
+        "total_trades": 86,
+        "win_rate": 36.0,
+        "avg_rr": 1.36,
+        "profit_factor": 1.13
+      },
+      "Gap": {
+        "wins": 35,
+        "losses": 46,
+        "total_trades": 81,
+        "win_rate": 43.2,
+        "avg_rr": 1.43,
+        "profit_factor": 1.52
+      },
+      "Doji": {
+        "wins": 2,
+        "losses": 11,
+        "total_trades": 13,
+        "win_rate": 15.4,
+        "avg_rr": 1.15,
+        "profit_factor": 0.36
+      },
+      "Harami": {
+        "wins": 1,
+        "losses": 3,
+        "total_trades": 4,
+        "win_rate": 25.0,
+        "avg_rr": 1.25,
+        "profit_factor": 0.67
+      },
+      "Hammer / Hanging Man": {
+        "wins": 4,
+        "losses": 7,
+        "total_trades": 11,
+        "win_rate": 36.4,
+        "avg_rr": 1.36,
+        "profit_factor": 1.14
+      },
+      "Shooting Star": {
+        "wins": 0,
+        "losses": 3,
+        "total_trades": 3,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      },
+      "Dark Cloud / Piercing": {
+        "wins": 0,
+        "losses": 2,
+        "total_trades": 2,
+        "win_rate": 0.0,
+        "avg_rr": 1.0,
+        "profit_factor": 0.0
+      }
+    }
+  },
+  "aggregate": {
+    "Bear Flag": {
+      "wins": 2,
+      "losses": 0,
+      "total_trades": 2,
+      "win_rate": 100.0,
+      "profit_factor": 2.0
+    },
+    "Descending Triangle": {
+      "wins": 63,
+      "losses": 55,
+      "total_trades": 118,
+      "win_rate": 53.4,
+      "profit_factor": 2.29
+    },
+    "Dirty Retest": {
+      "wins": 64,
+      "losses": 62,
+      "total_trades": 126,
+      "win_rate": 50.8,
+      "profit_factor": 2.06
+    },
+    "Ascending Triangle": {
+      "wins": 197,
+      "losses": 201,
+      "total_trades": 398,
+      "win_rate": 49.5,
+      "profit_factor": 1.96
+    },
+    "Rectangle": {
+      "wins": 109,
+      "losses": 113,
+      "total_trades": 222,
+      "win_rate": 49.1,
+      "profit_factor": 1.93
+    },
+    "Inverse H&S": {
+      "wins": 151,
+      "losses": 165,
+      "total_trades": 316,
+      "win_rate": 47.8,
+      "profit_factor": 1.83
+    },
+    "Breakout Buildup": {
+      "wins": 123,
+      "losses": 142,
+      "total_trades": 265,
+      "win_rate": 46.4,
+      "profit_factor": 1.73
+    },
+    "EMA Pullback": {
+      "wins": 5,
+      "losses": 6,
+      "total_trades": 11,
+      "win_rate": 45.5,
+      "profit_factor": 1.67
+    },
+    "Head & Shoulders": {
+      "wins": 122,
+      "losses": 154,
+      "total_trades": 276,
+      "win_rate": 44.2,
+      "profit_factor": 1.58
+    },
+    "Cup & Handle": {
+      "wins": 11,
+      "losses": 14,
+      "total_trades": 25,
+      "win_rate": 44.0,
+      "profit_factor": 1.57
+    },
+    "Triple Bottom": {
+      "wins": 226,
+      "losses": 362,
+      "total_trades": 588,
+      "win_rate": 38.4,
+      "profit_factor": 1.25
+    },
+    "Triple Top": {
+      "wins": 154,
+      "losses": 250,
+      "total_trades": 404,
+      "win_rate": 38.1,
+      "profit_factor": 1.23
+    },
+    "Shooting Star": {
+      "wins": 8,
+      "losses": 13,
+      "total_trades": 21,
+      "win_rate": 38.1,
+      "profit_factor": 1.23
+    },
+    "Supply & Demand": {
+      "wins": 101,
+      "losses": 165,
+      "total_trades": 266,
+      "win_rate": 38.0,
+      "profit_factor": 1.22
+    },
+    "Bull Flag": {
+      "wins": 3,
+      "losses": 6,
+      "total_trades": 9,
+      "win_rate": 33.3,
+      "profit_factor": 1.0
+    },
+    "Dark Cloud / Piercing": {
+      "wins": 6,
+      "losses": 12,
+      "total_trades": 18,
+      "win_rate": 33.3,
+      "profit_factor": 1.0
+    },
+    "Round Numbers": {
+      "wins": 124,
+      "losses": 263,
+      "total_trades": 387,
+      "win_rate": 32.0,
+      "profit_factor": 0.94
+    },
+    "Prev Day H/L": {
+      "wins": 345,
+      "losses": 738,
+      "total_trades": 1083,
+      "win_rate": 31.9,
+      "profit_factor": 0.93
+    },
+    "Inside Bar / NR4": {
+      "wins": 159,
+      "losses": 340,
+      "total_trades": 499,
+      "win_rate": 31.9,
+      "profit_factor": 0.94
+    },
+    "Gap": {
+      "wins": 237,
+      "losses": 506,
+      "total_trades": 743,
+      "win_rate": 31.9,
+      "profit_factor": 0.94
+    },
+    "Double Bottom": {
+      "wins": 111,
+      "losses": 240,
+      "total_trades": 351,
+      "win_rate": 31.6,
+      "profit_factor": 0.93
+    },
+    "Double Top": {
+      "wins": 59,
+      "losses": 139,
+      "total_trades": 198,
+      "win_rate": 29.8,
+      "profit_factor": 0.85
+    },
+    "Hammer / Hanging Man": {
+      "wins": 11,
+      "losses": 26,
+      "total_trades": 37,
+      "win_rate": 29.7,
+      "profit_factor": 0.85
+    },
+    "Pipe Bottom": {
+      "wins": 8,
+      "losses": 19,
+      "total_trades": 27,
+      "win_rate": 29.6,
+      "profit_factor": 0.84
+    },
+    "Candlestick Patterns": {
+      "wins": 5,
+      "losses": 12,
+      "total_trades": 17,
+      "win_rate": 29.4,
+      "profit_factor": 0.83
+    },
+    "Doji": {
+      "wins": 33,
+      "losses": 81,
+      "total_trades": 114,
+      "win_rate": 28.9,
+      "profit_factor": 0.81
+    },
+    "Harami": {
+      "wins": 7,
+      "losses": 22,
+      "total_trades": 29,
+      "win_rate": 24.1,
+      "profit_factor": 0.64
+    },
+    "Breakout Retest": {
+      "wins": 11,
+      "losses": 39,
+      "total_trades": 50,
+      "win_rate": 22.0,
+      "profit_factor": 0.56
+    },
+    "RSI Divergence": {
+      "wins": 83,
+      "losses": 299,
+      "total_trades": 382,
+      "win_rate": 21.7,
+      "profit_factor": 0.56
+    },
+    "Symmetrical Triangle": {
+      "wins": 1,
+      "losses": 5,
+      "total_trades": 6,
+      "win_rate": 16.7,
+      "profit_factor": 0.4
+    },
+    "Falling Wedge": {
+      "wins": 7,
+      "losses": 49,
+      "total_trades": 56,
+      "win_rate": 12.5,
+      "profit_factor": 0.29
+    },
+    "Rising Wedge": {
+      "wins": 4,
+      "losses": 36,
+      "total_trades": 40,
+      "win_rate": 10.0,
+      "profit_factor": 0.22
+    },
+    "Fibonacci": {
+      "wins": 0,
+      "losses": 0,
+      "total_trades": 0,
+      "win_rate": 0.0,
+      "profit_factor": 0.0
+    }
+  }
+}
